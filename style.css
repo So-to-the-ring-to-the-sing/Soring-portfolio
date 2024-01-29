@@ -1,0 +1,52 @@
+.navbar{
+  padding-bottom: 0;
+  letter-spacing: 10px;
+  background-color: transparent;
+  color: white;
+  position: fixed;
+}
+.intro{
+  background-color: black;
+  color: white;
+  padding-top: 100px;
+}
+.logoname{
+  font-size: 1.2rem;
+  font-family: 'Bebas Neue', sans-serif;
+}
+span{
+  display: block;
+}
+.display-5{
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 5rem;
+}
+.d-block{
+  border-radius: 50%;
+  height: 25rem;
+}
+.album{
+  font-family: 'Bebas Neue', sans-serif;
+  background-color: black;
+  word-spacing: 5px;
+  letter-spacing: 5px;
+}
+.quotes{
+  background-color: black;
+  color: white;
+  font-family: 'Bebas Neue', sans-serif;
+}
+.cllink{
+  color: black;
+}
+h3{
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 5rem;
+}
+.workshead{
+  color: white;
+  padding-top: 100px;
+}
+.nav-item{
+  padding: 20px;
+}
